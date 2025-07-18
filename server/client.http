@@ -1,0 +1,29 @@
+@baseUrl = http://localhost:3333
+
+# Health check
+# GET {{baseUrl}}/health
+
+# Get all rooms
+# GET {{baseUrl}}/rooms
+
+# Create a new room
+# POST {{baseUrl}}/rooms
+# Accept: application/json
+# Content-Type: application/json
+
+# {
+#   "name": "New Room",
+#   "description": "This is a new room created via API."
+# }
+
+
+# Get question by room by ID
+# GET {{baseUrl}}/rooms/111179ed-6778-47da-3cb9-f8813aabe33b/questions
+
+# Create question
+# POST {{baseUrl}}/rooms/111179ed-6778-47da-3cb9-f8813aabe33b/questions
+# Content-Type: application/json
+
+# {
+#   "question": "Il fait quel temps aujourd'hui ?"
+# }
