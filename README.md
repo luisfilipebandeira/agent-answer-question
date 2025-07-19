@@ -3,6 +3,15 @@
 
 Este projeto foi desenvolvido durante um evento da Rocketseat, demonstrando a criação de uma **aplicação fullstack robusta e eficiente**, composta por uma API de backend e uma interface de usuário frontend, focadas na utilização de agentes inteligentes na web.
 
+<p>Telas do App</p>
+
+<p>Home</p>
+<img alt="Tela 1" src=".github/1.png" width="50%">
+
+<p>Room</p>
+<img alt="Tela 2" src=".github/2.png" width="50%">
+
+
 -----
 
 ### 🚀 Tecnologias
